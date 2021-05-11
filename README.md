@@ -13,7 +13,6 @@ nvme 固态256G：Windows 10 1809 --UEFI引导
 OC正常引导2个系统
 
 引导工作情况：
-此config文件在我设备上正常使用，但不保证你可以直接使用，若因使用此config导致的第三次世界大战、宇宙射线增强、主板 损坏等问题与本人无关！
 注意：必须添加三码才可使用！！！！方法在下面！！！
 无核显（9400F），config未配置核显
 
@@ -25,4 +24,4 @@ WiFi蓝牙正常
 唤醒正常
 HEVC/H264双硬解正常
 FaceTime/短信正常
-USB已定制，本人机箱无前面板USB，机型为iMacPro1,1（iMac Pro 2017），修改机型请去掉USBPorts.kext， 改用USBInjectAll.kext，否则可能导致开机键鼠不能使用！
+USB已定制，机型为iMacPro1,1，修改机型请去掉USBPorts.kext， 改用USBInjectAll.kext，否则可能导致开机键鼠不能使用！
