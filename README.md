@@ -52,5 +52,4 @@ SystemProductName ------ Type
 SystemSerialNumber ----- Serial
 MLB -------------------- Board Serial
 SystemUUID ------------- SmUUID
-
 主题说明：config已开启本人修改的官方主题
