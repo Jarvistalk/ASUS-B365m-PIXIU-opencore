@@ -49,7 +49,11 @@ USB已定制，机型为iMacPro1,1，修改机型请去掉USBPorts.kext， 改�
 GenSMBIOS生成的信息对应填入PlatformInfo--Generic下，对应关系如下：
 
 SystemProductName ------ Type
+
 SystemSerialNumber ----- Serial
+
 MLB -------------------- Board Serial
+
 SystemUUID ------------- SmUUID
+
 主题说明：config已开启本人修改的官方主题
